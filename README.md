@@ -3,7 +3,7 @@ A small project based on the "Jam and Jelly Of the Month Club," written in C++.
 
 
 #include <iostream>
-Using namespace std;
+using namespace std;
 
 int main ()
  
