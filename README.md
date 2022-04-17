@@ -22,7 +22,7 @@ int main ()
    Cout << "How many jams, jellies, or preserves did you purchase this month?" << endl;
    Cin >> howManyJams;
 
-   // the values for rhe monthly packages
+   // the values for the monthly packages
    If (whichPackage == 'A' || whichPackage == 'a')
    
    {
